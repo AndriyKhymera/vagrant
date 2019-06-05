@@ -1,1 +1,1 @@
-Repo of usefull vagrant files ready configs
+Repo of usefull vagrant ready configs
